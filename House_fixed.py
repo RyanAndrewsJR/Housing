@@ -56,7 +56,9 @@ plot_comparison('scatter', tril_data_common, 'Year', 'Sold Price/SqFt', house_da
 
 #create function with year argument and plot by years
 
-#Combine data sets
+#Combine data sets 
+
+#out of date working with new data set (for the better)
 
 
 
