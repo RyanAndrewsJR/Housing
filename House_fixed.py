@@ -54,7 +54,10 @@ house_data_riv_common = house_data_riv[house_data_riv['Year'].isin(common_years)
 plot_comparison('scatter', tril_data_common, 'Year', 'Sold Price/SqFt', house_data_riv_common, 'Year', 'index_nsa')
 
 
-#create function with year argument and plot by yearswww
+#create function with year argument and plot by years
+
+#Combine data sets
+
 
 
 
